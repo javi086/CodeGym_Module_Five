@@ -1,0 +1,36 @@
+2025-06-27T15:44:11.901-06:00  INFO 2900 --- [CodeGym] [restartedMain] c.C.CodeGym.CodeGymApplication           : Starting CodeGymApplication using Java 17.0.11 with PID 2900 (C:\Users\jav86\OneDrive\Documentos\CodeGym\CodeGym\target\classes started by jav86 in C:\Users\jav86\OneDrive\Documentos\CodeGym\CodeGym)
+2025-06-27T15:44:11.922-06:00  INFO 2900 --- [CodeGym] [restartedMain] c.C.CodeGym.CodeGymApplication           : No active profile set, falling back to 1 default profile: "default"
+2025-06-27T15:44:12.135-06:00  INFO 2900 --- [CodeGym] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-06-27T15:44:12.136-06:00  INFO 2900 --- [CodeGym] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-06-27T15:44:15.276-06:00  INFO 2900 --- [CodeGym] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-06-27T15:44:15.308-06:00  INFO 2900 --- [CodeGym] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-06-27T15:44:15.309-06:00  INFO 2900 --- [CodeGym] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-06-27T15:44:15.388-06:00  INFO 2900 --- [CodeGym] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-06-27T15:44:15.389-06:00  INFO 2900 --- [CodeGym] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3252 ms
+2025-06-27T15:44:16.648-06:00  INFO 2900 --- [CodeGym] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-06-27T15:44:16.663-06:00  INFO 2900 --- [CodeGym] [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint beneath base path '/actuator'
+2025-06-27T15:44:16.781-06:00  INFO 2900 --- [CodeGym] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-06-27T15:44:16.803-06:00  INFO 2900 --- [CodeGym] [restartedMain] c.C.CodeGym.CodeGymApplication           : Started CodeGymApplication in 6.192 seconds (process running for 7.484)
+2025-06-27T15:47:50.736-06:00  INFO 2900 --- [CodeGym] [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-06-27T15:47:50.742-06:00  INFO 2900 --- [CodeGym] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-06-27T15:47:50.768-06:00  INFO 2900 --- [CodeGym] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 26 ms
+2025-06-27T16:01:38.455-06:00  INFO 2900 --- [CodeGym] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-06-27T16:01:39.172-06:00  INFO 2900 --- [CodeGym] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-06-27T16:01:46.654-06:00  INFO 24984 --- [CodeGym] [restartedMain] c.C.CodeGym.CodeGymApplication           : Starting CodeGymApplication using Java 17.0.11 with PID 24984 (C:\Users\jav86\OneDrive\Documentos\CodeGym\CodeGym\target\classes started by jav86 in C:\Users\jav86\OneDrive\Documentos\CodeGym\CodeGym)
+2025-06-27T16:01:46.659-06:00  INFO 24984 --- [CodeGym] [restartedMain] c.C.CodeGym.CodeGymApplication           : No active profile set, falling back to 1 default profile: "default"
+2025-06-27T16:01:46.802-06:00  INFO 24984 --- [CodeGym] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-06-27T16:01:46.803-06:00  INFO 24984 --- [CodeGym] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-06-27T16:01:50.772-06:00  INFO 24984 --- [CodeGym] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-06-27T16:01:50.814-06:00  INFO 24984 --- [CodeGym] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-06-27T16:01:50.814-06:00  INFO 24984 --- [CodeGym] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-06-27T16:01:50.912-06:00  INFO 24984 --- [CodeGym] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-06-27T16:01:50.913-06:00  INFO 24984 --- [CodeGym] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 4108 ms
+2025-06-27T16:01:52.692-06:00  INFO 24984 --- [CodeGym] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-06-27T16:01:52.709-06:00  INFO 24984 --- [CodeGym] [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint beneath base path '/actuator'
+2025-06-27T16:01:52.820-06:00  INFO 24984 --- [CodeGym] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-06-27T16:01:52.851-06:00  INFO 24984 --- [CodeGym] [restartedMain] c.C.CodeGym.CodeGymApplication           : Started CodeGymApplication in 7.608 seconds (process running for 8.48)
+2025-06-27T16:02:12.854-06:00  INFO 24984 --- [CodeGym] [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-06-27T16:02:12.855-06:00  INFO 24984 --- [CodeGym] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-06-27T16:02:12.857-06:00  INFO 24984 --- [CodeGym] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-06-27T16:13:01.464-06:00  INFO 24984 --- [CodeGym] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-06-27T16:13:02.265-06:00  INFO 24984 --- [CodeGym] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
